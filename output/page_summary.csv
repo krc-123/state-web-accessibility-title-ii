@@ -1,0 +1,153 @@
+state,state_name,category,final_url,page_title,rules_failed,elements_failed,critical,serious,moderate,minor,any_failure,any_serious_or_critical
+AK,Alaska,Medicaid application,https://health.alaska.gov/en/division-of-public-assistance/,Division of Public Assistance | State of Alaska | Department of Health,1,1,0,1,0,0,TRUE,TRUE
+AK,Alaska,EHDI newborn hearing,https://health.alaska.gov/en/division-of-public-health/,Division of Public Health | State of Alaska | Department of Health,1,8,0,8,0,0,TRUE,TRUE
+AK,Alaska,Part C early intervention,https://health.alaska.gov/en/senior-and-disabilities-services/early-intervention-infant-learning/,Early Intervention/Infant Learning Program | State of Alaska | Department of Health,1,5,0,5,0,0,TRUE,TRUE
+AL,Alabama,Medicaid application,http://insurealabama.org/,Redirecting...,0,0,0,0,0,0,FALSE,FALSE
+AL,Alabama,EHDI newborn hearing,https://www.alabamapublichealth.gov/newbornscreening/newborn-hearing-screening.html,Newborn Hearing Screening | Alabama Department of Public Health (ADPH),2,4,0,3,1,0,TRUE,TRUE
+AL,Alabama,Part C early intervention,https://www.rehab.alabama.gov/services/ei,ADRS | Alabama Department of Rehabilitation Services,1,1,0,0,1,0,TRUE,FALSE
+AR,Arkansas,Medicaid application,https://access.arkansas.gov/Learn/Home,Access Arkansas - Learn,3,5,4,1,0,0,TRUE,TRUE
+AR,Arkansas,EHDI newborn hearing,https://healthy.arkansas.gov/programs-services/community-family-child-health/family-health/infant-hearing/,Infant Hearing - Arkansas Department of Health,3,3,1,2,0,0,TRUE,TRUE
+AR,Arkansas,Part C early intervention,https://www.firstconnectionsar.org/,"First Connections in Little Rock, AR",1,10,0,10,0,0,TRUE,TRUE
+AZ,Arizona,Medicaid application,https://www.healthearizonaplus.gov/Login/Default,Health-e-Arizona,0,0,0,0,0,0,FALSE,FALSE
+AZ,Arizona,EHDI newborn hearing,https://www.azdhs.gov/preparedness/state-laboratory/newborn-screening/index.php#az-ehdi-home,ADHS - Newborn Screening - Newborn Hearing Screening EHDI 101 - Home,3,3,1,1,1,0,TRUE,TRUE
+CA,California,Medicaid application,https://benefitscal.com/,"Home | BenefitsCal. Together, we benefit.",0,0,0,0,0,0,FALSE,FALSE
+CA,California,EHDI newborn hearing,https://www.leadkfamilyservices.org/,Supporting Deaf & Hard of Hearing Children in California | LEAD-K Family Services,2,8,0,8,0,0,TRUE,TRUE
+CA,California,Part C early intervention,https://www.dds.ca.gov/services/early-start/,Early Start : CA Department of Developmental Services,1,3,0,3,0,0,TRUE,TRUE
+CO,Colorado,Medicaid application,https://peak.my.site.com/peak/s/peak-landing-page?language=en_US,Log In or Apply for Benefits | Colorado PEAK,1,1,0,1,0,0,TRUE,TRUE
+CO,Colorado,EHDI newborn hearing,https://cdphe.colorado.gov/center-for-health-and-environmental-data/registries-and-vital-statistics/newborn-hearing-screening,Newborn hearing screening | Colorado Department of Public Health and Environment,0,0,0,0,0,0,FALSE,FALSE
+CO,Colorado,Part C early intervention,https://dcfs.my.salesforce-sites.com/eicolorado/EI_Home?lang=en,Early Intervention Colorado | EI Home,3,4,3,1,0,0,TRUE,TRUE
+CT,Connecticut,Medicaid application,https://www.connect.ct.gov/access/jsp/access/Home.jsp,Connecticut Department of Social Services - ConneCT,1,1,0,1,0,0,TRUE,TRUE
+CT,Connecticut,EHDI newborn hearing,https://portal.ct.gov/DPH/Family-Health/EHDI/Home-page--Early-Hearing-Detection-and-Intervention-Program-Home-Page?language=en_US,Home page -Early Hearing Detection and Intervention Program Home Page,0,0,0,0,0,0,FALSE,FALSE
+CT,Connecticut,Part C early intervention,https://portal.ct.gov/en/404error/?item=%2fbirth-to-three&user=extranet%5cAnonymous&site=oec,404 Error Page,0,0,0,0,0,0,FALSE,FALSE
+DC,District of Columbia,Medicaid application,https://dhcf.dc.gov/service/medicaid,Medicaid | dhcf,1,1,0,1,0,0,TRUE,TRUE
+DC,District of Columbia,EHDI newborn hearing,https://dchealth.dc.gov/service/newborn-screening,Newborn Screening | dchealth,1,1,0,1,0,0,TRUE,TRUE
+DC,District of Columbia,Part C early intervention,https://osse.dc.gov/service/strong-start-dc-early-intervention-program-dc-eip,Strong Start DC Early Intervention Program (DC EIP) | osse,1,7,0,7,0,0,TRUE,TRUE
+DE,Delaware,Medicaid application,https://assist.dhss.delaware.gov/,ASSIST Home,0,0,0,0,0,0,FALSE,FALSE
+DE,Delaware,EHDI newborn hearing,https://dethrives.com/programs/newborn-screening,Newborn Screening Program | Delaware Thrives,1,1,0,1,0,0,TRUE,TRUE
+DE,Delaware,Part C early intervention,https://www.b23de.org/,Home - Birth to Three Delaware,5,30,3,27,0,0,TRUE,TRUE
+FL,Florida,Medicaid application,https://www.myflfamilies.com/services/public-assistance,Public Benefits and Services | Florida DCF,0,0,0,0,0,0,FALSE,FALSE
+FL,Florida,EHDI newborn hearing,https://floridanewbornscreening.com/hearing/early-hearing-and-intervention-programs/,Early Hearing Detection and Intervention Program - Florida Newborn Screening,0,0,0,0,0,0,FALSE,FALSE
+FL,Florida,Part C early intervention,https://floridaearlysteps.com/,Home - FDOH Early Steps,0,0,0,0,0,0,FALSE,FALSE
+GA,Georgia,Medicaid application,https://gateway.ga.gov/access/,Georgia Gateway - Homepage Screen,3,5,1,4,0,0,TRUE,TRUE
+GA,Georgia,EHDI newborn hearing,https://dph.georgia.gov/EHDI,Early Hearing Detection and Intervention | Georgia Department of Public Health,1,1,0,1,0,0,TRUE,TRUE
+GA,Georgia,Part C early intervention,https://dph.georgia.gov/babies-cant-wait,Babies Can't Wait | Georgia Department of Public Health,1,3,0,3,0,0,TRUE,TRUE
+HI,Hawaii,Medicaid application,https://medquest.hawaii.gov/,Hawaii Medicaid,2,4,1,3,0,0,TRUE,TRUE
+HI,Hawaii,EHDI newborn hearing,https://health.hawaii.gov/genetics/programs/nhsp/,- Newborn Hearing Screening Program,1,2,0,2,0,0,TRUE,TRUE
+HI,Hawaii,Part C early intervention,https://health.hawaii.gov/eis/,"Early Intervention Section – State of Hawaii, Department of Health",1,2,0,2,0,0,TRUE,TRUE
+IA,Iowa,Medicaid application,https://hhs.iowa.gov/medicaid,Medicaid | Health & Human Services,2,2,0,2,0,0,TRUE,TRUE
+IA,Iowa,EHDI newborn hearing,https://hhs.iowa.gov/,Welcome | Health & Human Services,2,2,0,2,0,0,TRUE,TRUE
+IA,Iowa,Part C early intervention,https://educate.iowa.gov/pk-12/early-childhood/early-access,Early ACCESS | Department of Education,1,1,0,1,0,0,TRUE,TRUE
+ID,Idaho,Medicaid application,https://idalink.idaho.gov/,idalink - Welcome to idalink,1,1,0,1,0,0,TRUE,TRUE
+ID,Idaho,EHDI newborn hearing,https://healthandwelfare.idaho.gov/services-programs/children-families-older-adults/newborn-hearing-screening,Newborn Hearing Screening | Idaho Department of Health and Welfare,1,4,4,0,0,0,TRUE,TRUE
+ID,Idaho,Part C early intervention,https://healthandwelfare.idaho.gov/services-programs/children-families-older-adults/about-infant-toddler-program,About The Infant Toddler Program | Idaho Department of Health and Welfare,1,4,4,0,0,0,TRUE,TRUE
+IL,Illinois,Medicaid application,https://abe.illinois.gov/access/,Illinois.gov - IL Application for Benefits Eligibility (ABE) ABE Home Page,1,12,0,12,0,0,TRUE,TRUE
+IL,Illinois,EHDI newborn hearing,https://www.illinoissoundbeginnings.com/,Newborn Hearing Screening | Il Sound Beginnings,3,11,0,11,0,0,TRUE,TRUE
+IL,Illinois,Part C early intervention,https://idec.illinois.gov/forparents/early-intervention.html,Early Intervention Services,0,0,0,0,0,0,FALSE,FALSE
+IN,Indiana,Medicaid application,https://www.in.gov/fssa/dfr/ebt-hoosier-works-card/find-my-local-dfr-office/,DFR: Find My Local DFR Office,0,0,0,0,0,0,FALSE,FALSE
+IN,Indiana,EHDI newborn hearing,https://www.in.gov/health/mch/families/ehdi-early-hearing-detection-and-intervention/,Maternal and Child Health: EHDI - Early Hearing Detection and Intervention,0,0,0,0,0,0,FALSE,FALSE
+IN,Indiana,Part C early intervention,https://www.in.gov/fssa/ddars/bcds/,DDARS: Bureau of Child Development Services (BCDS),0,0,0,0,0,0,FALSE,FALSE
+KS,Kansas,Medicaid application,https://www.kancare.ks.gov/,KanCare | Home,2,2,0,2,0,0,TRUE,TRUE
+KS,Kansas,EHDI newborn hearing,https://nbss.ks.gov/,KDHE – KDHE,1,35,0,35,0,0,TRUE,TRUE
+KS,Kansas,Part C early intervention,https://www.kdhe.ks.gov/677/Kansas-Early-Childhood-Developmental-Ser,"Kansas Early Childhood Developmental Services | KDHE, KS",1,2,2,0,0,0,TRUE,TRUE
+KY,Kentucky,Medicaid application,https://kynect.ky.gov/benefits/s/?language=en_US,Kentucky Benefits | kynect Benefits,2,2,0,2,0,0,TRUE,TRUE
+KY,Kentucky,EHDI newborn hearing,https://www.chfs.ky.gov/agencies/ocshcn/Pages/newbornscreening.aspx,Newborn Hearing Screening Program - Cabinet for Health and Family Services,0,0,0,0,0,0,FALSE,FALSE
+KY,Kentucky,Part C early intervention,https://www.chfs.ky.gov/agencies/dph/dmch/ecdb/Pages/keis.aspx,Kentucky Early Intervention System - Cabinet for Health and Family Services,0,0,0,0,0,0,FALSE,FALSE
+LA,Louisiana,Medicaid application,https://ldh.la.gov/microsite/1,Bureau of Health Services Financing (Medicaid) | Louisiana Department of Health,1,1,0,1,0,0,TRUE,TRUE
+LA,Louisiana,EHDI newborn hearing,https://ldh.la.gov/page/768,Louisiana Early Hearing Detection and Intervention Program | Louisiana Department of Health,1,2,0,2,0,0,TRUE,TRUE
+LA,Louisiana,Part C early intervention,https://ldh.la.gov/index.cfm/page/139/n/139,Home | Louisiana Department of Health,1,1,0,1,0,0,TRUE,TRUE
+MA,Massachusetts,Medicaid application,https://www.mass.gov/orgs/masshealth,MassHealth | Mass.gov,0,0,0,0,0,0,FALSE,FALSE
+MA,Massachusetts,EHDI newborn hearing,https://www.mass.gov/universal-newborn-hearing-screening-program,Universal Newborn Hearing Screening Program | Mass.gov,0,0,0,0,0,0,FALSE,FALSE
+MA,Massachusetts,Part C early intervention,https://www.mass.gov/orgs/early-intervention-division,Early Intervention Division | Mass.gov,0,0,0,0,0,0,FALSE,FALSE
+MD,Maryland,Medicaid application,https://www.marylandhealthconnection.gov/,Home - Maryland Health Connection,3,3,1,2,0,0,TRUE,TRUE
+MD,Maryland,EHDI newborn hearing,https://health.maryland.gov/phpa/cyshcn/Pages/Infant_Hearing_Program.aspx,Pages - Infant_Hearing_Program,3,6,5,1,0,0,TRUE,TRUE
+MD,Maryland,Part C early intervention,https://msde.maryland.gov/academics-0/special-education/maryland-infants-and-toddlers-program,Maryland Infants and Toddlers Program | Maryland State Department of Education,0,0,0,0,0,0,FALSE,FALSE
+ME,Maine,Medicaid application,https://www.maine.gov/dhhs/oms,Office of MaineCare Services (OMS) | Department of Health and Human Services,1,3,3,0,0,0,TRUE,TRUE
+ME,Maine,EHDI newborn hearing,https://earliestinteractions.com/,Home | Earliest Interactions,0,0,0,0,0,0,FALSE,FALSE
+ME,Maine,Part C early intervention,https://www.maine.gov/doe/cds,Child Development Services (CDS) | Department of Education,0,0,0,0,0,0,FALSE,FALSE
+MI,Michigan,Medicaid application,https://newmibridges.michigan.gov/s/isd-landing-page?language=en_US,MI Bridges,3,7,4,3,0,0,TRUE,TRUE
+MI,Michigan,EHDI newborn hearing,https://www.michigan.gov/en/mdhhs/adult-child-serv/childrenfamilies/ehdi,Early Hearing Detection and Intervention,0,0,0,0,0,0,FALSE,FALSE
+MI,Michigan,Part C early intervention,https://www.michigan.gov/mileap/early-childhood-education/early-learners-and-care/special-ed-05/early-on-michigan,Early On Michigan,1,2,0,2,0,0,TRUE,TRUE
+MN,Minnesota,Medicaid application,https://mnbenefits.mn.gov/,MNbenefits,1,17,0,17,0,0,TRUE,TRUE
+MN,Minnesota,EHDI newborn hearing,https://www.health.mn.gov/improveEhdi,Early Hearing Detection and Intervention - MN Dept. of Health,1,5,5,0,0,0,TRUE,TRUE
+MN,Minnesota,Part C early intervention,https://dcyf.mn.gov/,"Minnesota Department of Children, Youth, and Families",0,0,0,0,0,0,FALSE,FALSE
+MO,Missouri,Medicaid application,https://dss.mo.gov/healthcare,Healthcare | Missouri Department of Social Services,0,0,0,0,0,0,FALSE,FALSE
+MO,Missouri,EHDI newborn hearing,https://health.mo.gov/families/healthy-families/genetic-disease-early-childhood/newborn-hearing-screening,Newborn Hearing Screening | Missouri Department of Health and Senior Services,0,0,0,0,0,0,FALSE,FALSE
+MO,Missouri,Part C early intervention,https://dese.mo.gov/childhood/early-intervention/first-steps,First Steps | Missouri Department of Elementary and Secondary Education,0,0,0,0,0,0,FALSE,FALSE
+MS,Mississippi,Medicaid application,https://medicaid.ms.gov/,Mississippi Division of Medicaid | Temporary Site,0,0,0,0,0,0,FALSE,FALSE
+MS,Mississippi,EHDI newborn hearing,"https://msdh.ms.gov/page/41,0,174.html",Early Hearing (EHDI) - Mississippi State Department of Health,4,63,0,63,0,0,TRUE,TRUE
+MS,Mississippi,Part C early intervention,"https://msdh.ms.gov/page/41,0,74.html",Early Intervention - Mississippi State Department of Health,4,65,0,65,0,0,TRUE,TRUE
+MT,Montana,Medicaid application,https://dphhs.mt.gov/MontanaHealthcarePrograms/,Montana Healthcare Programs,0,0,0,0,0,0,FALSE,FALSE
+MT,Montana,EHDI newborn hearing,https://dphhs.mt.gov/ecfsd/cshs/NewbornScreeningPrograms/NewbornHearingScreeningIntervention/NBHSIScreeningInformation,NBHSI Screening Information,0,0,0,0,0,0,FALSE,FALSE
+MT,Montana,Part C early intervention,https://dphhs.mt.gov/ecfsd/childcare/montanamilestones/,Montana Milestones,1,2,0,2,0,0,TRUE,TRUE
+NC,North Carolina,Medicaid application,https://epass.nc.gov/,NCDHHS - ePASS,1,1,0,1,0,0,TRUE,TRUE
+NC,North Carolina,EHDI newborn hearing,https://www.ncdhhs.gov/divisions/child-and-family-well-being/whole-child-health-section/genetics-and-newborn-screening/early-hearing-detection-and-intervention-services,Early Hearing Detection and Intervention Services | NCDHHS,0,0,0,0,0,0,FALSE,FALSE
+NC,North Carolina,Part C early intervention,https://www.ncdhhs.gov/divisions/child-and-family-well-being/north-carolina-infant-toddler-program-nc-itp,North Carolina Infant-Toddler Program (NC ITP) | NCDHHS,0,0,0,0,0,0,FALSE,FALSE
+ND,North Dakota,Medicaid application,https://www.hhs.nd.gov/applyforhelp,Apply for Help | Health and Human Services North Dakota,1,2,2,0,0,0,TRUE,TRUE
+ND,North Dakota,EHDI newborn hearing,https://www.hhs.nd.gov/newborn-screening,Newborn Screening | Health and Human Services North Dakota,2,4,2,2,0,0,TRUE,TRUE
+ND,North Dakota,Part C early intervention,https://www.hhs.nd.gov/early-childhood-services/early-intervention,Early Intervention | Health and Human Services North Dakota,3,6,4,2,0,0,TRUE,TRUE
+NE,Nebraska,Medicaid application,https://iserve.nebraska.gov/,iServe Portal,1,1,0,1,0,0,TRUE,TRUE
+NE,Nebraska,EHDI newborn hearing,https://dhhs.ne.gov/Pages/Hearing-Detection-and-Intervention.aspx,Early Hearing Detection & Intervention,3,8,0,8,0,0,TRUE,TRUE
+NE,Nebraska,Part C early intervention,https://edn.ne.gov/cms/,Home | Nebraska Early Development Network,3,3,1,2,0,0,TRUE,TRUE
+NH,New Hampshire,Medicaid application,https://nheasy.nh.gov/#/,NH EASY - Gateway to Services,4,7,2,5,0,0,TRUE,TRUE
+NH,New Hampshire,EHDI newborn hearing,https://www.dhhs.nh.gov/programs-services/health-care/hearing-detection-newborns,Hearing Detection for Newborns | New Hampshire Department of Health and Human Services,0,0,0,0,0,0,FALSE,FALSE
+NH,New Hampshire,Part C early intervention,https://www.dhhs.nh.gov/programs-services/disability-care/developmental-services/birth-3-family-centered-early-supports,Birth To 3: Family Centered Early Supports & Services | New Hampshire Department of Health and Human Services,0,0,0,0,0,0,FALSE,FALSE
+NJ,New Jersey,Medicaid application,https://njfamilycare.dhs.state.nj.us/,Welcome to NJ FamilyCare,3,4,1,3,0,0,TRUE,TRUE
+NJ,New Jersey,EHDI newborn hearing,https://www.nj.gov/health/fhs/nbs/ehdi/,Department of Health | Newborn Screening & Genetic Services | Newborn Hearing Screening,1,3,0,3,0,0,TRUE,TRUE
+NJ,New Jersey,Part C early intervention,https://www.nj.gov/health/fhs/eis/index.shtml,Department of Health | Early Intervention,1,3,0,3,0,0,TRUE,TRUE
+NM,New Mexico,Medicaid application,https://www.hca.nm.gov/lookingforassistance/,Looking for Assistance – New Mexico Health Care Authority,0,0,0,0,0,0,FALSE,FALSE
+NM,New Mexico,EHDI newborn hearing,https://www.nmhealth.org/about/phd/fhb/cms/ns/,Newborn Screening,1,7,7,0,0,0,TRUE,TRUE
+NM,New Mexico,Part C early intervention,https://www.nmececd.org/programs-for-infants/,Programs for Infants | Early Childhood Education & Care Department,5,73,3,69,1,0,TRUE,TRUE
+NV,Nevada,Medicaid application,https://accessnevada.nv.gov/public/landing-page,Access Nevada,1,1,0,1,0,0,TRUE,TRUE
+NV,Nevada,EHDI newborn hearing,https://www.dpbh.nv.gov/programs/maternal-child-and-adolescent-health-mcah/early-hearing-detection-and-intervention-ehdi/,Early Hearing Detection and Intervention (EHDI),0,0,0,0,0,0,FALSE,FALSE
+NV,Nevada,Part C early intervention,https://www.adsd.nv.gov/programs/idea-part-c/,IDEA Part C,0,0,0,0,0,0,FALSE,FALSE
+NY,New York,Medicaid application,https://nystateofhealth.ny.gov/,New York State of Health | Health Plan Marketplace for Individual and Small Business Health Insurance,2,3,1,2,0,0,TRUE,TRUE
+NY,New York,EHDI newborn hearing,https://www.health.ny.gov/community/infants_children/early_intervention/newborn_hearing_screening/,Early Hearing Detection and Intervention Program (EHDI),2,5,1,4,0,0,TRUE,TRUE
+NY,New York,Part C early intervention,https://www.health.ny.gov/community/infants_children/early_intervention/,Early Intervention Program - New York State Department of Health,2,8,1,7,0,0,TRUE,TRUE
+OH,Ohio,Medicaid application,https://benefits.ohio.gov/,Ohio Benefits | Ohio Benefits Self Service Portal Core,3,18,0,18,0,0,TRUE,TRUE
+OH,Ohio,EHDI newborn hearing,https://odh.ohio.gov/know-our-programs/infant-hearing-program/infant-hearing/,Infant Hearing Program | Ohio Department of Health,2,6,0,6,0,0,TRUE,TRUE
+OH,Ohio,Part C early intervention,https://ohioearlyintervention.org/,Ohio Early Intervention,0,0,0,0,0,0,FALSE,FALSE
+OK,Oklahoma,Medicaid application,https://oklahoma.gov/ohca/individuals/mysoonercare/membership.html,Membership,2,3,0,3,0,0,TRUE,TRUE
+OK,Oklahoma,EHDI newborn hearing,https://oklahoma.gov/health/services/children-family-health/screening-and-special-services/newborn-screening-program/newborn-hearing-screening.html,Newborn Hearing Screening,0,0,0,0,0,0,FALSE,FALSE
+OK,Oklahoma,Part C early intervention,https://oklahoma.gov/education.html,Oklahoma State Department of Education (265),2,6,0,6,0,0,TRUE,TRUE
+OR,Oregon,Medicaid application,https://www.oregon.gov/oha/hsd/ohp/pages/splash.aspx,Oregon Health Authority : OHP.Oregon.gov: Learn more about the Oregon Health Plan (OHP) : Oregon Health Plan : State of Oregon,2,15,1,14,0,0,TRUE,TRUE
+OR,Oregon,EHDI newborn hearing,https://www.oregon.gov/oha/ph/HealthyPeopleFamilies/Babies/HealthScreening/HearingScreening/Pages/index.aspx,Oregon Health Authority : Early Hearing Detection and Intervention (EHDI) Program : Hearing Screening and Follow-Up : State of Oregon,0,0,0,0,0,0,FALSE,FALSE
+OR,Oregon,Part C early intervention,https://www.oregon.gov/ode/students-and-family/SpecialEducation/earlyintervention/Pages/default.aspx,Oregon Department of Education : Early Intervention / Early Childhood Special Education : Early Intervention/Early Childhood Special Education : State of Oregon,0,0,0,0,0,0,FALSE,FALSE
+PA,Pennsylvania,Medicaid application,https://www.compass.dhs.pa.gov/home/#/,COMPASS Homepage - COMPASS Homepage Landing [HPDFT],0,0,0,0,0,0,FALSE,FALSE
+PA,Pennsylvania,EHDI newborn hearing,https://www.pa.gov/agencies/health/programs/maternal-health-and-infant-care/newborn-screening/hearing,Hearing | Department of Health | Commonwealth of Pennsylvania,0,0,0,0,0,0,FALSE,FALSE
+PA,Pennsylvania,Part C early intervention,https://www.pa.gov/agencies/dhs/resources/early-learning-child-care/early-intervention-services,Early Intervention Services | Department of Human Services | Commonwealth of Pennsylvania,1,1,0,1,0,0,TRUE,TRUE
+RI,Rhode Island,Medicaid application,https://healthyrhode.ri.gov/HIXWebI3/DisplayHomePage,HealthSource RI | Your Health. Your Way.,1,25,0,25,0,0,TRUE,TRUE
+RI,Rhode Island,EHDI newborn hearing,https://health.ri.gov/newborn-screening/early-hearing-detection-and-intervention,Early Hearing Detection and Intervention | Department of Health,0,0,0,0,0,0,FALSE,FALSE
+RI,Rhode Island,Part C early intervention,https://eohhs.ri.gov/Consumer/FamilieswithChildren/EarlyIntervention.aspx,Early Intervention Program | Executive Office of Health and Human Services,0,0,0,0,0,0,FALSE,FALSE
+SC,South Carolina,Medicaid application,https://www.scdhhs.gov/,Homepage (New) | SCDHHS,0,0,0,0,0,0,FALSE,FALSE
+SC,South Carolina,EHDI newborn hearing,https://dph.sc.gov/health-wellness/child-teen-health/early-childhood/newborn-infant-safety/newborn-hearing-identifying,Newborn Hearing – Identifying Problems Early | South Carolina Department of Public Health,0,0,0,0,0,0,FALSE,FALSE
+SC,South Carolina,Part C early intervention,https://www.scdhhs.gov/,Homepage (New) | SCDHHS,0,0,0,0,0,0,FALSE,FALSE
+SD,South Dakota,Medicaid application,https://dss.sd.gov/medicaid/,Medicaid General Information,0,0,0,0,0,0,FALSE,FALSE
+SD,South Dakota,EHDI newborn hearing,https://doh.sd.gov/programs/newborn-screening/,Newborn Screening | South Dakota Department of Health,0,0,0,0,0,0,FALSE,FALSE
+SD,South Dakota,Part C early intervention,https://doe.sd.gov/Birthto3/,"Birth to Three, SD Department of Education",2,2,1,1,0,0,TRUE,TRUE
+TN,Tennessee,Medicaid application,https://tenncareconnect.tn.gov/,Welcome to TennCare,1,4,0,4,0,0,TRUE,TRUE
+TN,Tennessee,EHDI newborn hearing,https://www.tn.gov/health/nbs.html,Tennessee Department of Health Newborn Screening Program,0,0,0,0,0,0,FALSE,FALSE
+TN,Tennessee,Part C early intervention,https://www.tn.gov/disability-and-aging/disability-aging-programs/teis.html,Tennessee Early Intervention System (TEIS),0,0,0,0,0,0,FALSE,FALSE
+TX,Texas,Medicaid application,https://www.yourtexasbenefits.com/,Error Message - Your Texas Benefits,1,2,0,2,0,0,TRUE,TRUE
+TX,Texas,EHDI newborn hearing,https://www.dshs.texas.gov/texas-early-hearing-detection-intervention-tehdi,Texas Early Hearing Detection and Intervention (TEHDI) | Texas DSHS,1,2,0,2,0,0,TRUE,TRUE
+TX,Texas,Part C early intervention,https://www.hhs.texas.gov/services/disability/early-childhood-intervention-services,Early Childhood Intervention Services | Texas Health and Human Services,3,4,1,3,0,0,TRUE,TRUE
+UT,Utah,Medicaid application,https://medicaid.utah.gov/apply-medicaid/,Apply for Medicaid - Medicaid - Utah DHHS,2,10,0,10,0,0,TRUE,TRUE
+UT,Utah,EHDI newborn hearing,https://health.utah.gov/index.html,Former Utah Department of Health,1,3,0,3,0,0,TRUE,TRUE
+UT,Utah,Part C early intervention,https://familyhealth.utah.gov/oec/baby-watch-early-intervention/,Baby Watch Early Intervention Program | Division of Family Health – Utah DHHS,3,10,0,10,0,0,TRUE,TRUE
+VA,Virginia,Medicaid application,https://coverva.dmas.virginia.gov/,Home | CoverVA,1,1,0,1,0,0,TRUE,TRUE
+VA,Virginia,EHDI newborn hearing,https://www.vdh.virginia.gov/early-hearing-detection-and-intervention/,Early Hearing Detection and Intervention - Early Hearing Detection,1,2,0,2,0,0,TRUE,TRUE
+VA,Virginia,Part C early intervention,https://itcva.online/,Infant & Toddler Connection of Virginia - ITCVA,0,0,0,0,0,0,FALSE,FALSE
+VT,Vermont,Medicaid application,https://portal.healthconnect.vermont.gov/VTHBELand/welcome.action,VHC Landing Page,0,0,0,0,0,0,FALSE,FALSE
+VT,Vermont,EHDI newborn hearing,https://www.healthvermont.gov/family/health-care-children-youth/vermont-early-hearing-detection-intervention-program,Vermont Early Hearing Detection & Intervention Program | Vermont Department of Health,0,0,0,0,0,0,FALSE,FALSE
+VT,Vermont,Part C early intervention,https://dcf.vermont.gov/services/cis/IDEA,Early Intervention Services | Department for Children and Families,0,0,0,0,0,0,FALSE,FALSE
+WA,Washington,Medicaid application,https://www.wahealthplanfinder.org/,Home | Washington Healthplanfinder,1,2,2,0,0,0,TRUE,TRUE
+WA,Washington,EHDI newborn hearing,https://doh.wa.gov/you-and-your-family/infants-and-children/health-and-safety/early-hearing-detection-and-support,"Early Hearing Detection, Diagnosis and Intervention | Washington State Department of Health",0,0,0,0,0,0,FALSE,FALSE
+WA,Washington,Part C early intervention,https://www.dcyf.wa.gov/services/child-development-supports/esit,"Early Support for Infants & Toddlers | Washington State Department of Children, Youth, and Families",0,0,0,0,0,0,FALSE,FALSE
+WI,Wisconsin,Medicaid application,https://access.wi.gov/s/?language=en_US,ACCESS Wisconsin | Apply for and manage state of Wisconsin benefits,2,2,1,1,0,0,TRUE,TRUE
+WI,Wisconsin,EHDI newborn hearing,https://www.dhs.wisconsin.gov/newbornscreening/hearing.htm,Wisconsin Sound Beginnings: Early Hearing Detection and Intervention Program | Wisconsin Department of Health Services,0,0,0,0,0,0,FALSE,FALSE
+WI,Wisconsin,Part C early intervention,https://www.dhs.wisconsin.gov/birthto3/index.htm,Birth to 3 Program | Wisconsin Department of Health Services,0,0,0,0,0,0,FALSE,FALSE
+WV,West Virginia,Medicaid application,https://www.wvpath.wv.gov/,Home - IE Client Portal,0,0,0,0,0,0,FALSE,FALSE
+WV,West Virginia,EHDI newborn hearing,https://dhhr.wv.gov/HealthCheck/preventivehealthresources/Pages/Hearing.aspx,Hearing,1,11,0,11,0,0,TRUE,TRUE
+WV,West Virginia,Part C early intervention,http://www.wvdhhr.org/birth23/,WV Birth to Three - Early Intervention - Home page,1,8,0,8,0,0,TRUE,TRUE
+WY,Wyoming,Medicaid application,https://health.wyo.gov/healthcarefin/medicaid/,Wyoming Medicaid - Wyoming Department of Health,2,2,0,2,0,0,TRUE,TRUE
+WY,Wyoming,EHDI newborn hearing,https://www.wyomingehdi.org/,Home - Wyoming EHDI,0,0,0,0,0,0,FALSE,FALSE
+WY,Wyoming,Part C early intervention,https://health.wyo.gov/behavioralhealth/early-intervention-education-program-eiep/,Early Intervention and Education Program (EIEP) - Wyoming Department of Health,0,0,0,0,0,0,FALSE,FALSE

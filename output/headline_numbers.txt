@@ -1,0 +1,8 @@
+Pages listed: 153; usable scans (axe ran, HTTP 200): 152; excluded: 1
+States and DC with at least one usable page: 51
+Pages with at least one WCAG 2.1 A/AA failure: 89 of 152 (59%)
+Pages with at least one serious or critical failure: 88 of 152 (58%)
+States where every scanned page was clean: 6
+Failing elements per page: median 1, mean 4.3, total 647
+Most common failing rule: color-contrast, on 22% of pages
+Share of all failing elements explained by the three biggest rules: 74%

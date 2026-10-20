@@ -1,0 +1,22 @@
+bucket,rule_id,help,pages_affected,elements_failed
+Best practice (not a WCAG failure),region,All page content should be contained by landmarks,81,535
+Best practice (not a WCAG failure),landmark-unique,Landmarks should have a unique role or role/label/title (i.e. accessible name) combination,53,70
+Best practice (not a WCAG failure),heading-order,Heading levels should only increase by one,41,50
+Best practice (not a WCAG failure),landmark-one-main,Document should have one main landmark,29,29
+Best practice (not a WCAG failure),aria-allowed-role,ARIA role should be appropriate for the element,20,36
+Best practice (not a WCAG failure),landmark-no-duplicate-banner,Document should not have more than one banner landmark,18,18
+Best practice (not a WCAG failure),page-has-heading-one,Page should contain a level-one heading,18,18
+Best practice (not a WCAG failure),landmark-no-duplicate-contentinfo,Document should not have more than one contentinfo landmark,8,8
+Best practice (not a WCAG failure),landmark-main-is-top-level,Main landmark should not be contained in another landmark,5,5
+Best practice (not a WCAG failure),empty-heading,Headings should not be empty,4,8
+Best practice (not a WCAG failure),label-title-only,Form elements should have a visible label,4,4
+Best practice (not a WCAG failure),landmark-banner-is-top-level,Banner landmark should not be contained in another landmark,4,4
+Best practice (not a WCAG failure),tabindex,Elements should not have tabindex greater than zero,4,4
+Best practice (not a WCAG failure),landmark-contentinfo-is-top-level,Contentinfo landmark should not be contained in another landmark,3,4
+Best practice (not a WCAG failure),landmark-no-duplicate-main,Document should not have more than one main landmark,3,3
+Best practice (not a WCAG failure),aria-dialog-name,ARIA dialog and alertdialog nodes should have an accessible name,2,2
+Best practice (not a WCAG failure),image-redundant-alt,Alternative text of images should not be repeated as text,2,2
+Best practice (not a WCAG failure),skip-link,The skip-link target should exist and be focusable,2,2
+Best practice (not a WCAG failure),accesskeys,accesskey attribute value should be unique,1,1
+Best practice (not a WCAG failure),meta-viewport-large,Users should be able to zoom and scale the text up to 500%,1,1
+WCAG 2.2 only,target-size,"All touch targets must be 24px large, or leave sufficient space",29,128

@@ -1,0 +1,27 @@
+rule_id,help,impact,wcag_criteria,help_url,pages_affected,elements_failed,share_of_pages
+color-contrast,Elements must meet minimum color contrast ratio thresholds,serious,1.4.3,https://dequeuniversity.com/rules/axe/4.14/color-contrast?application=axeAPI,33,368,0.21710526315789475
+label-content-name-mismatch,Elements must have their visible text as part of their accessible name,serious,2.5.3,https://dequeuniversity.com/rules/axe/4.14/label-content-name-mismatch?application=axeAPI,29,73,0.19078947368421054
+link-name,Links must have discernible text,serious,2.4.4|4.1.2,https://dequeuniversity.com/rules/axe/4.14/link-name?application=axeAPI,16,36,0.10526315789473684
+image-alt,Images must have alternative text,critical,1.1.1,https://dequeuniversity.com/rules/axe/4.14/image-alt?application=axeAPI,9,15,0.05921052631578947
+list,"<ul> and <ol> must only directly contain <li>, <script> or <template> elements",serious,1.3.1,https://dequeuniversity.com/rules/axe/4.14/list?application=axeAPI,7,12,0.046052631578947366
+listitem,<li> elements must be contained in a <ul> or <ol>,serious,1.3.1,https://dequeuniversity.com/rules/axe/4.14/listitem?application=axeAPI,7,39,0.046052631578947366
+aria-allowed-attr,Elements must only use supported ARIA attributes,critical,4.1.2,https://dequeuniversity.com/rules/axe/4.14/aria-allowed-attr?application=axeAPI,6,25,0.039473684210526314
+aria-roles,ARIA roles used must conform to valid values,critical,4.1.2,https://dequeuniversity.com/rules/axe/4.14/aria-roles?application=axeAPI,6,8,0.039473684210526314
+aria-prohibited-attr,Elements must only use permitted ARIA attributes,serious,4.1.2,https://dequeuniversity.com/rules/axe/4.14/aria-prohibited-attr?application=axeAPI,5,7,0.03289473684210526
+frame-title,Frames must have an accessible name,serious,4.1.2,https://dequeuniversity.com/rules/axe/4.14/frame-title?application=axeAPI,5,7,0.03289473684210526
+link-in-text-block,Links must be distinguishable without relying on color,serious,1.4.1,https://dequeuniversity.com/rules/axe/4.14/link-in-text-block?application=axeAPI,4,4,0.02631578947368421
+meta-viewport,Zooming and scaling must not be disabled,moderate,1.4.4,https://dequeuniversity.com/rules/axe/4.14/meta-viewport?application=axeAPI,4,4,0.02631578947368421
+nested-interactive,Interactive controls must not be nested,serious,4.1.2,https://dequeuniversity.com/rules/axe/4.14/nested-interactive?application=axeAPI,4,4,0.02631578947368421
+aria-required-children,Certain ARIA roles must contain particular children,critical,1.3.1,https://dequeuniversity.com/rules/axe/4.14/aria-required-children?application=axeAPI,3,4,0.019736842105263157
+aria-required-parent,Certain ARIA roles must be contained by particular parents,critical,1.3.1,https://dequeuniversity.com/rules/axe/4.14/aria-required-parent?application=axeAPI,3,9,0.019736842105263157
+button-name,Buttons must have discernible text,critical,4.1.2,https://dequeuniversity.com/rules/axe/4.14/button-name?application=axeAPI,3,4,0.019736842105263157
+aria-hidden-focus,ARIA hidden element must not be focusable or contain focusable elements,serious,4.1.2,https://dequeuniversity.com/rules/axe/4.14/aria-hidden-focus?application=axeAPI,2,14,0.013157894736842105
+aria-valid-attr-value,ARIA attributes must conform to valid values,critical,4.1.2,https://dequeuniversity.com/rules/axe/4.14/aria-valid-attr-value?application=axeAPI,2,3,0.013157894736842105
+html-has-lang,<html> element must have a lang attribute,serious,3.1.1,https://dequeuniversity.com/rules/axe/4.14/html-has-lang?application=axeAPI,2,2,0.013157894736842105
+aria-command-name,ARIA commands must have an accessible name,serious,4.1.2,https://dequeuniversity.com/rules/axe/4.14/aria-command-name?application=axeAPI,1,3,0.006578947368421052
+aria-required-attr,Required ARIA attributes must be provided,critical,4.1.2,https://dequeuniversity.com/rules/axe/4.14/aria-required-attr?application=axeAPI,1,1,0.006578947368421052
+aria-valid-attr,ARIA attributes must conform to valid names,critical,4.1.2,https://dequeuniversity.com/rules/axe/4.14/aria-valid-attr?application=axeAPI,1,1,0.006578947368421052
+label,Form elements must have labels,critical,4.1.2,https://dequeuniversity.com/rules/axe/4.14/label?application=axeAPI,1,1,0.006578947368421052
+meta-refresh,Delayed refresh under 20 hours must not be used,critical,2.2.1,https://dequeuniversity.com/rules/axe/4.14/meta-refresh?application=axeAPI,1,1,0.006578947368421052
+select-name,Select element must have an accessible name,critical,4.1.2,https://dequeuniversity.com/rules/axe/4.14/select-name?application=axeAPI,1,1,0.006578947368421052
+svg-img-alt,<svg> elements with an img or image role must have alternative text,serious,1.1.1,https://dequeuniversity.com/rules/axe/4.14/svg-img-alt?application=axeAPI,1,1,0.006578947368421052
