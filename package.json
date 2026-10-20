@@ -1,0 +1,14 @@
+{
+  "name": "state-web-accessibility-title-ii",
+  "version": "1.0.0",
+  "description": "axe-core scan of the state government pages families of deaf and hard of hearing children depend on, six months before the ADA Title II web accessibility deadline",
+  "main": "scan.js",
+  "scripts": {
+    "scan": "node scan.js pages.csv data/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axe-core": "^4.14.0",
+    "playwright": "^1.56.0"
+  }
+}
